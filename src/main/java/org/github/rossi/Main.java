@@ -15,12 +15,11 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        //TIP ceci est un test voir si ca va marcher sa grand mère
+        //TIP ceci est un test qui teste
 
         String mdr = "oui";
         //mama lou enchantments
         System.out.println(mdr);
 
-        //TIP eh bah ca marche sa grand mère
-    }
+        //TIP eh bah ca marche
 }
