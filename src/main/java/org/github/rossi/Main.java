@@ -19,6 +19,7 @@ public class Main {
 
         String mdr = "oui";
         //mama lou enchantments
+        System.out.println(mdr);
 
         //TIP eh bah ca marche sa grand mère
     }
