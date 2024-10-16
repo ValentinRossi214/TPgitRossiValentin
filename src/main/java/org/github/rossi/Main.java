@@ -22,4 +22,5 @@ public class Main {
         System.out.println(mdr);
 
         //TIP eh bah ca marche
+        // Bonjour à Monsieur Valentin qui lit ce message
 }
